@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied in a field like sales. When selling cars, it is important to know who is likely to buy a car and what kind of cars to produce. Data science is helpful to get these insights and apply them to business operations. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge combines two branches by creating a new merge commit that ties their histories together. Rebase moves you feature branch commits to the tip of the target branch, rewriting history into a straight path. 
