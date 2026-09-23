@@ -10,3 +10,7 @@ Answer: Data science can be applied in a field like sales. When selling cars, it
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge combines two branches by creating a new merge commit that ties their histories together. Rebase moves you feature branch commits to the tip of the target branch, rewriting history into a straight path. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to meeting new people and doing well in my classes! 
